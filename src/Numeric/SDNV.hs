@@ -12,7 +12,7 @@ import Data.Binary
 import Data.Bits
 import qualified Data.ByteString as B
 import Data.ByteString.Short (ShortByteString, pack, unpack, toShort, fromShort)
-import Data.List (maximum, span, repeat)
+import Data.List (maximum)
 
 newtype SDNV a = SDNV ShortByteString deriving (Eq)
 
