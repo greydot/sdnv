@@ -8,7 +8,7 @@ description:         Self-delimiting numeric values decoding/encoding implementa
 license:             BSD2
 license-file:        LICENSE
 author:              Lana Black
-maintainer:          lanablack@eml.cc
+maintainer:          Lana Black <lanablack@amok.cc>
 copyright:           Lana Black
 category:            Numeric
 build-type:          Simple
