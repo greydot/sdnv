@@ -1,0 +1,13 @@
+Haskell SDNV library.
+
+The API is pretty simple. You can read more about SDNV format
+here: https://tools.ietf.org/html/draft-irtf-dtnrg-sdnv-09
+
+Changelog:
+
+- 0.1.1:
+  * Updated email, moved repo to github.
+  * No code has been changed
+
+- 0.1.0.0:
+  * Initial release
